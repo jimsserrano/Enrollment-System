@@ -1,0 +1,37 @@
+body
+	{
+		margin:0;
+		padding: 0;
+		background: url(images/background1.jpg);
+		background-size: cover;
+		font-family: Georgia, serif;
+	}
+.container
+	{
+		padding: 13px;
+	}
+#ui
+	{
+		background: #DCDEDC;
+		margin-top: 30px;
+		border: 1px solid black;
+		padding: 13px;
+	}
+hr 
+	{
+		border: 1px solid grey;
+	}
+.msg
+	{
+		margin-top: 30px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 0px; 
+		padding: 10px;
+		border-radius: 5px;
+		color: #3c763d;
+		background: #dff0d8;
+		border: 1px solid #3c763d;
+		width: 50%;
+		text-align: center;
+	}

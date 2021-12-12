@@ -1,0 +1,48 @@
+body
+	{
+		margin:0;
+		padding: 0;
+		background-image:url(images/background2.jpg);
+		background-size: fill;
+		font-family: Georgia, serif;
+	}
+
+#ui
+	{
+		background: #DCDEDC;
+		margin-top: 70px;
+		border: 1px solid black;
+		padding: 13px;
+		width: 100%;
+	}
+#PrintDiv
+{
+background-image: url(images/logo2.png);
+background-size: 1200px;
+background-repeat: no-repeat;
+background-position: center;	
+}
+
+
+	#div1
+{
+	float: left;
+	width: 70%;
+
+}
+#div2
+{
+	float: right;
+	width: 30%;
+}
+#div3
+{
+	float: left;
+	width: 40%;
+}
+#div4
+{
+	float: right;
+	width: 40%;
+}
+
